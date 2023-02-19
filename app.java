@@ -3,3 +3,10 @@
 #Make use of static variables and dynamic variables
 #Author : Simon
 
+List users
+Simon
+Marie
+Datti
+Obi
+Paul 
+Peter
